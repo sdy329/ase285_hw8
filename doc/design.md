@@ -21,6 +21,9 @@ The software will have the following features:
 ### 5/4/23
 
 7 PM: Start on Requirements Document and Design Document
+
 9 PM: Start on the src files
+
 10 PM: Work on tests and finishing tests
+
 11:30 PM: Submission
